@@ -1,9 +1,0 @@
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/bin/iPhoneSimulator/Debug/HexRGB.exe
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/bin/iPhoneSimulator/Debug/HexRGB.pdb
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/HexRGB.csproj.CoreCompileInputs.cache
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/HexRGB.exe
-/Users/ethanh5/Desktop/Repos/Hex RGB/HexRGB/HexRGB/obj/iPhoneSimulator/Debug/HexRGB.pdb
